@@ -1,0 +1,18 @@
+/Users/hlaingeihtet/python_homework/.venv/bin/python 
+/Users/hlaingeihtet/python_homework/assignment4/assignment4.py
+/Users/hlaingeihtet/python_homework/.venv/bin/python 
+/Users/hlaingeihtet/python_homework/assignment4/assignment4.py
+/Users/hlaingeihtet/python_homework/.venv/bin/python 
+/Users/hlaingeihtet/python_homework/assignment4/assignment4.py
+/Users/hlaingeihtet/python_homework/.venv/bin/python 
+/Users/hlaingeihtet/python_homework/assignment4/assignment4.py
+.idea
++.DS_Store*
+.pytest_cache
+__pycache__/
+*.rb
+.vscode
+CACHEDIR.TAG
+.venv/
+/Users/hlaingeihtet/python_homework/.venv/bin/python /Users/hlaingeihtet/python_homework/assignment4/assignment4.py
+
