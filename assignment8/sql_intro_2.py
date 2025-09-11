@@ -42,9 +42,5 @@ print(f"\nSummary written to {output_path}")
 
 # Close connection
 conn.close()
-<<<<<<< HEAD
-
-=======
->>>>>>> 548664d4d4c0e9273f1b8a413f9223d7641cfa28
 print("Local version")
 print("Remote version")
